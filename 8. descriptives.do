@@ -8,15 +8,7 @@
 * Select work folders 						 						     
 *-------------------------------------------------- 
 
-*Anna Z.		
-if "`c(username)'" == "annaz" {
-	global housework "G:\Il Mio Drive\Housework-Distress paper (COPE)"
-}
-
-*Marija		
-if "`c(username)'" == "MARIJA INSERT YOUR LAPTOP USERNAME" {
-	global housework "MARIJA INSERT YOUR WORKING FOLDER PATH"
-}
+global housework "INSERT YOUR WORKING FOLDER PATH"
 
 global code			"$housework/Analyses"
 global data			"$housework/Data"
