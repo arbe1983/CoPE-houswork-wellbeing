@@ -8,7 +8,8 @@
 * Select work folders 						 						     
 *-------------------------------------------------- 
 
- "INSERT YOUR WORKING FOLDER PATH"
+global housework "INSERT YOUR WORKING FOLDER PATH"
+
 
 
 global code			"$housework/Analyses"
