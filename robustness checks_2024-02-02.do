@@ -14,7 +14,7 @@ set more off
 set maxvar 10000
 set seed 42
 
-use "C:\Users\arian\Nextcloud\CoPE\PAPER VI - Housework and Wellbeing\Analyses - FINLAND\analyticalfile_hwpaper_v5.dta"
+use "C:\xxx\PAPER VI - Housework and Wellbeing\Analyses - FINLAND\analyticalfile_hwpaper_v5.dta"
 
 
 
