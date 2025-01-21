@@ -16,7 +16,7 @@
 *** Finland ***
 ***************
 
-use "C:\Users\arian\Nextcloud\CoPE\PAPER VI - Housework and Wellbeing\Analyses - FINLAND\analyticalfile_hwpaper_v5.dta"
+use "C:\xxx\PAPER VI - Housework and Wellbeing\Analyses - FINLAND\analyticalfile_hwpaper_v5.dta"
 
 
 ren z_distress z_distress_old
@@ -112,7 +112,7 @@ mat diff_worklong_she2 = r(table)'
 
 *** Set Directory ***
 * Change to your own * 
-cd "C:\Users\arian\Nextcloud\CoPE\PAPER VI - Housework and Wellbeing\CSV Export for Graphing"
+cd "C:\xxx\PAPER VI - Housework and Wellbeing\CSV Export for Graphing"
 
 
 ** Put to Excel **
