@@ -7,23 +7,7 @@
 *--------------------------------------------------
 * Select work folders 						 						     
 *-------------------------------------------------- 
-
-*Anna Z.		
-if "`c(username)'" == "annaz" {
-	global housework "G:\Il Mio Drive\Housework-Distress paper (COPE)"
-}
-
-*Marija		
-if "`c(username)'" == "MARIJA INSERT YOUR LAPTOP USERNAME" {
-	global housework "MARIJA INSERT YOUR WORKING FOLDER PATH"
-}
-
-global code			"$housework/Analyses"
-global data			"$housework/Data"
-global output 		"$housework/Output"
-
-global w12 	 	 "$data\UKHLS12\6614stata_961F73F240850C31685A64327005C005F22A54B671C5F82433DEA980DDFE4CA1_V1\UKDA-6614-stata\stata\stata13_se\ukhls"
-global cov19 	 "$data\covid19"
+global housework "INSERT YOUR WORKING FOLDER PATH"
 
 *--------------------------------------------------
 * Open dataset				 						     
