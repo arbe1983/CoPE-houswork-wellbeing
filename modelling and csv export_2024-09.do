@@ -112,7 +112,7 @@ esttab male_m5e_new male_m6e_new female_m5e_new female_m6e_new using "Housework 
 
 *** Set Directory ***
 * Change to your own * 
-cd "C:\Users\arian\Nextcloud\CoPE\PAPER VI - Housework and Wellbeing\ARCHIVE\CSV Export for Graphing\Septmber 2024"
+cd "C:\xxxPAPER VI - Housework and Wellbeing\ARCHIVE\CSV Export for Graphing\Septmber 2024"
 
 
 ** Short-Term Changes **
